@@ -1,0 +1,9 @@
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/app.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/app_autogen_timestamp_deps.dir
+Z:/school_21/hack_15_09/build-app-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/app_autogen.dir
